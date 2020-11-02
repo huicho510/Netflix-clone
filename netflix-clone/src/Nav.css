@@ -10,6 +10,10 @@
     justify-content: space-between;
 }
 
+.nav__black{
+    background-color: #111;
+}
+
 .nav__logo {
     position: fixed;
     left:0;
